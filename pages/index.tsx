@@ -83,7 +83,7 @@ const Index = () => {
             Get Detail {isLoading['main'] && <Spinner className='ms-2' as="span" animation="border" size="sm" />}
           </Button>
           <br/>
-          <p>Source: <a href="https://github.com/sapthesh/terabox-directlink/">Terabox DL</a></p>
+          <p>Source: <a href="https://github.com/RAFIQ-CLOUD/terabox-directlink/">Terabox DL</a></p>
         </div>
       </Form>
 
